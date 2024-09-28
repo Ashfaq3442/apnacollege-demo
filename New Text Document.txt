@@ -11,4 +11,8 @@ make a little change in Readme file
 
 get status
 
+git add . (add all the files)
+
+git commit -m "Useful Message"
+
 
