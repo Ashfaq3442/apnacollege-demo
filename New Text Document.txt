@@ -1,0 +1,14 @@
+git config --global user.name "Ashfaq3442"
+git config --global user.email "ashfaqm46@gmail.com"
+
+git clone "link copy from repository" (for initializing the project)
+
+by using cd move into directory
+
+Get-ChildItem -Force is used for hidden files appering
+
+make a little change in Readme file
+
+get status
+
+
